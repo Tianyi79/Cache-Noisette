@@ -31,5 +31,4 @@ Note: Remember to tab its head before controlling its movement with arrows.
 	•	Easy.java, Medium.java, hard.java, tricky.java — level logic (coursework style)
 	•	Grid.java, Arrows.java, Squirrel.java, etc. — game objects / helpers
 
-## Screenshot
-<img width="663" height="652" alt="Screenshot 2025-12-26 at 21 20 25" src="https://github.com/user-attachments/assets/7b8085a1-a44a-4631-86e1-342491fdca29" />
+ 
